@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>right-arrow (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1614.000000, -1669.000000)">
+        <g id="Group-23" transform="translate(1541.000000, 1669.000000)" fill="#FF003B" fill-rule="nonzero">
+            <g id="right-arrow-(1)" transform="translate(73.000000, 0.000000)">
+                <path d="M40,0 L8,0 C3.589,0 0,3.589 0,8 L0,16 C0,17.104 0.896,18 2,18 C3.104,18 4,17.104 4,16 L4,8 C4,5.794 5.794,4 8,4 L40,4 C42.206,4 44,5.794 44,8 L44,40 C44,42.206 42.206,44 40,44 L8,44 C5.794,44 4,42.206 4,40 L4,32 C4,30.896 3.104,30 2,30 C0.896,30 0,30.896 0,32 L0,40 C0,44.411 3.589,48 8,48 L40,48 C44.411,48 48,44.411 48,40 L48,8 C48,3.589 44.411,0 40,0 Z" id="Shape"/>
+                <path d="M19.604,33.431 C19.993,33.81 20.496,33.998 21,33.998 C21.521,33.998 22.041,33.796 22.433,33.394 L28.829,26.827 C29.584,26.07 30,25.066 30,23.998 C30,22.929 29.583,21.924 28.847,21.188 L22.433,14.602 C21.663,13.811 20.396,13.793 19.605,14.565 C18.814,15.336 18.797,16.602 19.568,17.393 L25.982,24.016 L19.568,30.602 C18.796,31.394 18.813,32.66 19.604,33.431 Z" id="Shape"/>
+            </g>
+        </g>
+    </g>
+</svg>

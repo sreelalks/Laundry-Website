@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="189px" height="189px" viewBox="0 0 189 189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-318.000000, -1355.000000)">
+        <g id="Group-10" transform="translate(187.000000, 1096.000000)">
+            <g id="Group-8" transform="translate(0.000000, 228.000000)">
+                <g id="Group-7">
+                    <g id="Group-31" transform="translate(131.000000, 31.000000)">
+                        <circle id="Oval-2" fill-opacity="0.269644475" fill="#FFFFFF" cx="94.5" cy="94.5" r="94.5"></circle>
+                        <g id="calendar-(24)" transform="translate(37.000000, 31.000000)" fill-rule="nonzero">
+                            <path d="M96.8908046,11 L18.1091954,11 C8.1954023,11 0,19.1859931 0,29.0884041 L0,107.911596 C0,117.814007 8.1954023,126 18.1091954,126 L96.8908046,126 C106.804598,126 115,117.814007 115,107.911596 L115,29.2204363 C115,19.1859931 106.936782,11 96.8908046,11 Z" id="Shape" fill="#41E2CF"></path>
+                            <path d="M96.7795637,11 L18.0884041,11 C8.18599311,11 0,19.1311475 0,28.9672131 L0,43 L115,43 L115,29.0983607 C114.867968,19.1311475 106.814007,11 96.7795637,11 Z" id="Shape" fill="#F03575"></path>
+                            <g id="Group" transform="translate(18.000000, 55.000000)" fill="#FFFFFF">
+                                <ellipse id="Oval" cx="5.70277011" cy="5.95029492" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="28.7790957" cy="5.95029492" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="51.8554212" cy="5.95029492" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="74.9317468" cy="5.95029492" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="5.70277011" cy="28.9581019" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="28.7790957" cy="28.9581019" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="51.8554212" cy="28.9581019" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="74.9317468" cy="28.9581019" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="5.70277011" cy="51.7014514" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="28.7790957" cy="51.7014514" rx="5.70277011" ry="5.68583736"></ellipse>
+                                <ellipse id="Oval" cx="51.8554212" cy="51.7014514" rx="5.70277011" ry="5.68583736"></ellipse>
+                            </g>
+                            <circle id="Oval" fill="#F03575" cx="92.5" cy="106.5" r="5.5"></circle>
+                            <g id="Group" transform="translate(27.000000, 0.000000)" fill="#402810">
+                                <path d="M2.75878041,0 C1.31370496,0 0.131370496,1.20263469 0.131370496,2.67252153 L0.131370496,19.6430333 C0.131370496,21.1129201 1.31370496,22.3155548 2.75878041,22.3155548 C4.20385587,22.3155548 5.38619033,21.1129201 5.38619033,19.6430333 L5.38619033,2.67252153 C5.38619033,1.20263469 4.20385587,0 2.75878041,0 Z" id="Shape"></path>
+                                <path d="M58.7226116,0 C57.2775362,0 56.0952017,1.20263469 56.0952017,2.67252153 L56.0952017,19.6430333 C56.0952017,21.1129201 57.2775362,22.3155548 58.7226116,22.3155548 C60.1676871,22.3155548 61.3500216,21.1129201 61.3500216,19.6430333 L61.3500216,2.67252153 C61.3500216,1.20263469 60.1676871,0 58.7226116,0 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

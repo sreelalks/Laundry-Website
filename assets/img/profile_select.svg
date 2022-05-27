@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>user (13)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-232.000000, -257.000000)">
+        <g id="Group-8" transform="translate(198.000000, 219.000000)">
+            <g id="user-(13)" transform="translate(34.000000, 38.000000)">
+                <path d="M50,25 C50,38.8071695 38.8071695,50 25,50 C11.1928305,50 0,38.8071695 0,25 C0,11.1928305 11.1928305,0 25,0 C38.8071695,0 50,11.1928305 50,25 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M24.5,23 C17.509991,23.0014648 11.4694023,27.6077851 10,34.056829 C13.3837645,38.4204802 18.7698483,41 24.5,41 C30.2301517,41 35.6162355,38.4204802 39,34.056829 C37.5305977,27.6077851 31.490009,23.0014648 24.5,23 Z" id="Path" fill="#F03575"></path>
+                <path d="M31,16 C31,19.866211 27.866211,23 24,23 C20.133789,23 17,19.866211 17,16 C17,12.133789 20.133789,9 24,9 C27.866211,9 31,12.133789 31,16 Z" id="Path" fill="#F03575"></path>
+            </g>
+        </g>
+    </g>
+</svg>
